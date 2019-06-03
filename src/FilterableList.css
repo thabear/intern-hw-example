@@ -1,0 +1,15 @@
+ul {
+  list-style: none;
+  width: 100%;
+}
+
+li {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+#listContainer {
+  width: 50%;
+}
